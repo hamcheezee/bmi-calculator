@@ -16,3 +16,4 @@ Developed a mobile application for calculating Body Mass Index (BMI)
 
 ### 🪚 Tools Used:
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
