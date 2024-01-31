@@ -1,4 +1,4 @@
-# bmi-calculator
+# BMI Calculator
 
 Developed a mobile application for calculating Body Mass Index (BMI)
 
