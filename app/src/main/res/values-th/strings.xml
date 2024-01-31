@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ค่าดัชนีมวลกาย</string>
+    <string name="weightText">น้ำหนัก (กิโลกรัม)</string>
+    <string name="heightText">ส่วนสูง (เซนติเมตร)</string>
+    <string name="BMItext">ค่าดัชนีมวลกาย:</string>
+    <string name="BMI"></string>
+    <string name="resultText">อยู่ในเกณฑ์:</string>
+    <string name="result"></string>
+    <string name="calculateBtn">คำนวณ</string>
+
+    <string name="underweight">น้ำหนักน้อย</string>
+    <string name="normal">ปกติ</string>
+    <string name="obesity1">โรคอ้วนระดับ 1</string>
+    <string name="obesity2">โรคอ้วนระดับ 2</string>
+    <string name="obesity3">โรคอ้วนระดับ 3</string>
+
+    <string name="BMIhistory">ประวัติค่าดัชนีมวลกาย</string>
+    <string name="dateColumn">วันที่</string>
+    <string name="weightColumn">น้ำหนัก (กิโลกรัม)</string>
+    <string name="BMIcolumn">ค่าดัชนีมวลกาย</string>
+    <string name="resultColumn">อยู่ในเกณฑ์</string>
+    <string name="list"></string>
+</resources>

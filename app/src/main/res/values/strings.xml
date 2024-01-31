@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weightText">Weight (kg)</string>
+    <string name="heightText">Height (cm)</string>
+    <string name="BMItext">BMI:</string>
+    <string name="BMI"></string>
+    <string name="resultText">Considered:</string>
+    <string name="result"></string>
+    <string name="calculateBtn">Calculate</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="obesity1">Class 1 Obesity</string>
+    <string name="obesity2">Class 2 Obesity</string>
+    <string name="obesity3">Class 3 Obesity</string>
+
+    <string name="BMIhistory">BMI History</string>
+    <string name="dateColumn">Date</string>
+    <string name="weightColumn">Weight (kg)</string>
+    <string name="BMIcolumn">BMI</string>
+    <string name="resultColumn">Considered</string>
+    <string name="list"></string>
+</resources>
